@@ -1,0 +1,89 @@
+{
+  "id": "fd085850-1c14-4b83-a7cf-426891e2031b",
+  "projectName": "Free crops",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-verified\\test_free_crops_persist_export0\\Free crops",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "image",
+      "filename": "page.png",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-verified\\test_free_crops_persist_export0\\Free crops\\sources\\page.png",
+      "width": 800,
+      "height": 3000,
+      "sourceGroupId": "0fd6bfd5-2e7b-4a79-aa91-74728c6c0c42"
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "0fd6bfd5-2e7b-4a79-aa91-74728c6c0c42",
+      "name": "Project files",
+      "kind": "project-files",
+      "createdAt": "2026-10-12T14:01:28.617258+00:00"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "script1",
+      "text": "Script stays separate",
+      "completed": true,
+      "sourceImageId": "image",
+      "aspectRatio": "9:16",
+      "crop": {
+        "x": 40.0,
+        "y": 100.0,
+        "width": 720.0,
+        "height": 1280.0
+      },
+      "zoom": 1.0,
+      "rotation": 0,
+      "panX": 0.0,
+      "panY": 0.0,
+      "outputFile": "crops/001.png",
+      "outputWidth": 720,
+      "outputHeight": 1280
+    }
+  ],
+  "createdAt": "2026-10-12T14:01:28.547635+00:00",
+  "updatedAt": "2026-10-12T14:01:28.986122+00:00",
+  "cropMode": "free",
+  "freeCrops": [
+    {
+      "id": "free1",
+      "completed": true,
+      "sourceImageId": "image",
+      "aspectRatio": "9:16",
+      "crop": {
+        "x": 40.0,
+        "y": 100.0,
+        "width": 720.0,
+        "height": 1280.0
+      },
+      "zoom": 1.0,
+      "rotation": 0,
+      "panX": 0.0,
+      "panY": 0.0,
+      "outputFile": "crops/free-001.png",
+      "outputWidth": 720,
+      "outputHeight": 1280
+    },
+    {
+      "id": "free2",
+      "completed": true,
+      "sourceImageId": "image",
+      "aspectRatio": "9:16",
+      "crop": {
+        "x": 40.0,
+        "y": 100.0,
+        "width": 720.0,
+        "height": 1280.0
+      },
+      "zoom": 1.0,
+      "rotation": 90,
+      "panX": 0.0,
+      "panY": 0.0,
+      "outputFile": "crops/free-002.png",
+      "outputWidth": 1280,
+      "outputHeight": 720
+    }
+  ]
+}

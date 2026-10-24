@@ -1,0 +1,30 @@
+{
+  "id": "a6aee62a-92a3-4f65-98f6-e83ba80f7eca",
+  "projectName": "Story",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_stale_save_keeps_new_impo0\\Story",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "01ff7a96-c75a-4940-b648-c08032870974",
+      "filename": "1.png",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_stale_save_keeps_new_impo0\\Story\\sources\\843d5425-d9e7-4139-bd42-e792d7651972_01ff7a96-c75a-4940-b648-c08032870974.png",
+      "width": 10,
+      "height": 10,
+      "sourceGroupId": "843d5425-d9e7-4139-bd42-e792d7651972",
+      "relativePath": "1.png"
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "843d5425-d9e7-4139-bd42-e792d7651972",
+      "name": "Chapter",
+      "kind": "folder",
+      "originalPath": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_stale_save_keeps_new_impo0\\Chapter",
+      "createdAt": "2026-10-12T15:20:31.335081+00:00"
+    }
+  ],
+  "paragraphs": [],
+  "createdAt": "2026-10-12T15:20:31.294172+00:00",
+  "updatedAt": "2026-10-12T15:20:31.362851+00:00",
+  "freeCrops": []
+}

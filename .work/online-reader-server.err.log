@@ -1,0 +1,6 @@
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by com.sun.jna.Native in an unnamed module (file:/C:/Users/Admin/Desktop/Suwayomi-Server/server/build/Suwayomi-Server-v2.4.2366.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+[21612:17720:1012/223507.223:ERROR:chrome\installer\util\google_update_settings.cc:265] Failed opening key Software\Chromium to set usagestats; result: 5

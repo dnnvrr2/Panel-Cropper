@@ -1,0 +1,23 @@
+{
+  "id": "015a02e0-fa04-4741-a427-8613244fef28",
+  "projectName": "Online crops",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-retry-tests\\test_invalid_snapshot_does_not0\\Online crops",
+  "defaultAspectRatio": "9:16",
+  "images": [],
+  "sourceGroups": [],
+  "paragraphs": [],
+  "createdAt": "2026-10-12T15:26:44.458323+00:00",
+  "updatedAt": "2026-10-12T15:26:44.520749+00:00",
+  "cropMode": "free",
+  "freeCrops": [
+    {
+      "id": "p1",
+      "text": "",
+      "aspectRatio": "1:1",
+      "zoom": 1,
+      "panX": 0,
+      "panY": 0,
+      "completed": false
+    }
+  ]
+}

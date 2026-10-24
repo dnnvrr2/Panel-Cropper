@@ -1,0 +1,30 @@
+{
+  "id": "c75638a7-4a06-4a94-bb42-c8725e2ffb90",
+  "projectName": "Story",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-final\\test_stale_save_keeps_new_impo0\\Story",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "fc085026-74be-4a54-987c-8ca15498d350",
+      "filename": "1.png",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-final\\test_stale_save_keeps_new_impo0\\Story\\sources\\036eed8c-1b8a-411b-8392-1f7684ea70c8_fc085026-74be-4a54-987c-8ca15498d350.png",
+      "width": 10,
+      "height": 10,
+      "sourceGroupId": "036eed8c-1b8a-411b-8392-1f7684ea70c8",
+      "relativePath": "1.png"
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "036eed8c-1b8a-411b-8392-1f7684ea70c8",
+      "name": "Chapter",
+      "kind": "folder",
+      "originalPath": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-final\\test_stale_save_keeps_new_impo0\\Chapter",
+      "createdAt": "2026-10-12T14:03:38.792081+00:00"
+    }
+  ],
+  "paragraphs": [],
+  "createdAt": "2026-10-12T14:03:38.737213+00:00",
+  "updatedAt": "2026-10-12T14:03:38.832620+00:00",
+  "freeCrops": []
+}

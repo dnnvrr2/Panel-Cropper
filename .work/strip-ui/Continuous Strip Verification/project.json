@@ -1,0 +1,143 @@
+{
+  "id": "e615cc45-d104-4e26-814e-1eff098fc8f8",
+  "projectName": "Continuous Strip Verification",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\strip-ui\\Continuous Strip Verification",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "online-152fc568bb0384a60266c11c-chapter",
+      "filename": "Chapter  101.1 Side Story (1)",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\strip-ui\\Continuous Strip Verification\\sources\\online-152fc568bb0384a60266c11c-chapter-0-2903aec1f5184201af4c2c8d92902125.webp",
+      "width": 1200,
+      "height": 59983,
+      "sourceGroupId": "online-152fc568bb0384a60266c11c",
+      "onlineOrigin": {
+        "serverUrl": "http://127.0.0.1:4567",
+        "mangaId": 1,
+        "chapterId": 304,
+        "chapterIndex": 304,
+        "pageIndices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "wholeChapter": true
+      },
+      "stripPages": [
+        {
+          "id": "page-0",
+          "filename": "Page 1",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\strip-ui\\Continuous Strip Verification\\sources\\online-152fc568bb0384a60266c11c-chapter-0-2903aec1f5184201af4c2c8d92902125.webp",
+          "width": 1200,
+          "height": 800,
+          "top": 0,
+          "stripHeight": 800
+        },
+        {
+          "id": "page-1",
+          "filename": "Page 2",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\strip-ui\\Continuous Strip Verification\\sources\\online-152fc568bb0384a60266c11c-chapter-1-b7bc39de6b764c0495fc2b77824ad354.webp",
+          "width": 800,
+          "height": 13960,
+          "top": 800,
+          "stripHeight": 20940
+        },
+        {
+          "id": "page-2",
+          "filename": "Page 3",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\strip-ui\\Continuous Strip Verification\\sources\\online-152fc568bb0384a60266c11c-chapter-2-d0e54633b748429684b396fa1bacbf8f.webp",
+          "width": 800,
+          "height": 13625,
+          "top": 21740,
+          "stripHeight": 20438
+        },
+        {
+          "id": "page-3",
+          "filename": "Page 4",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\strip-ui\\Continuous Strip Verification\\sources\\online-152fc568bb0384a60266c11c-chapter-3-79431deccd6349f2831e4c5adf7e4d83.webp",
+          "width": 800,
+          "height": 11870,
+          "top": 42178,
+          "stripHeight": 17805
+        }
+      ]
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "online-152fc568bb0384a60266c11c",
+      "name": "Doom Breaker · Chapter  101.1 Side Story (1)",
+      "kind": "online",
+      "createdAt": "2026-10-12T15:27:01.628056+00:00"
+    }
+  ],
+  "paragraphs": [],
+  "createdAt": "2026-10-12T15:23:19.637906+00:00",
+  "updatedAt": "2026-10-12T15:31:26.218788+00:00",
+  "freeCrops": [
+    {
+      "id": "02ed79da-7143-4133-9de1-a73ab1db57f7",
+      "text": "",
+      "aspectRatio": "1:1",
+      "zoom": 5,
+      "viewZoom": 1,
+      "rotation": 0,
+      "panX": 0,
+      "panY": 0,
+      "completed": true,
+      "draftImageId": "online-152fc568bb0384a60266c11c-chapter",
+      "crop": {
+        "x": 492,
+        "y": 693.6427104722793,
+        "width": 216,
+        "height": 216
+      },
+      "sourceImageId": "online-152fc568bb0384a60266c11c-chapter",
+      "outputFile": "crops/free-001.png",
+      "outputWidth": 216,
+      "outputHeight": 216
+    },
+    {
+      "id": "9215b0ae-8c07-4d51-9b0f-deb138bb1fba",
+      "text": "",
+      "aspectRatio": "1:1",
+      "zoom": 5,
+      "viewZoom": 1,
+      "rotation": 0,
+      "panX": 0,
+      "panY": 0,
+      "completed": true,
+      "draftImageId": "online-152fc568bb0384a60266c11c-chapter",
+      "crop": {
+        "x": 492,
+        "y": 21632.725530458592,
+        "width": 216,
+        "height": 216
+      },
+      "sourceImageId": "online-152fc568bb0384a60266c11c-chapter",
+      "outputFile": "crops/free-002.png",
+      "outputWidth": 216,
+      "outputHeight": 216
+    },
+    {
+      "id": "5b069a7c-a5af-4e72-852b-04844735c883",
+      "text": "",
+      "aspectRatio": "1:1",
+      "zoom": 5,
+      "viewZoom": 1,
+      "rotation": 0,
+      "panX": 0,
+      "panY": 0,
+      "completed": false,
+      "draftImageId": "online-152fc568bb0384a60266c11c-chapter",
+      "crop": {
+        "x": 492,
+        "y": 21632.725530458592,
+        "width": 216,
+        "height": 216
+      }
+    }
+  ],
+  "cropMode": "free"
+}

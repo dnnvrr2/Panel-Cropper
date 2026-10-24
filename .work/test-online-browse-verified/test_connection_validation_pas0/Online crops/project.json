@@ -1,0 +1,23 @@
+{
+  "id": "ecf6c096-1e3c-4dd0-b0e5-d06f58be2fcd",
+  "projectName": "Online crops",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\test-online-browse-verified\\test_connection_validation_pas0\\Online crops",
+  "defaultAspectRatio": "9:16",
+  "images": [],
+  "sourceGroups": [],
+  "paragraphs": [],
+  "createdAt": "2026-10-19T11:10:55.547206+00:00",
+  "updatedAt": "2026-10-19T11:10:55.576219+00:00",
+  "cropMode": "free",
+  "freeCrops": [
+    {
+      "id": "p1",
+      "text": "",
+      "aspectRatio": "1:1",
+      "zoom": 1,
+      "panX": 0,
+      "panY": 0,
+      "completed": false
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "057c3306-1750-42f7-bd29-ae9223b107fb",
+  "projectName": "Online crops",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\online-tests-cache-final\\test_online_snapshot_crop_and_0\\Online crops",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "online-16ed59091ba54b303ba67e21-0",
+      "filename": "Chapter 1 · Page 1",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\online-tests-cache-final\\test_online_snapshot_crop_and_0\\Online crops\\sources\\online-16ed59091ba54b303ba67e21-0-0-a7a51fffb18f4b33998bd5f4c1adaf1b.png",
+      "width": 20,
+      "height": 20,
+      "sourceGroupId": "online-16ed59091ba54b303ba67e21",
+      "onlineOrigin": {
+        "serverUrl": "http://reader.test:4567",
+        "mangaId": 42,
+        "chapterId": 101,
+        "chapterIndex": 7,
+        "pageIndices": [
+          0
+        ]
+      }
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "online-16ed59091ba54b303ba67e21",
+      "name": "Test Series · Chapter 1",
+      "kind": "online",
+      "createdAt": "2026-10-12T14:45:18.002704+00:00"
+    }
+  ],
+  "paragraphs": [],
+  "createdAt": "2026-10-12T14:45:17.832927+00:00",
+  "updatedAt": "2026-10-12T14:45:18.108207+00:00",
+  "cropMode": "free",
+  "freeCrops": [
+    {
+      "id": "p1",
+      "text": "",
+      "aspectRatio": "1:1",
+      "zoom": 1.0,
+      "panX": 0.0,
+      "panY": 0.0,
+      "completed": true,
+      "sourceImageId": "online-16ed59091ba54b303ba67e21-0",
+      "crop": {
+        "x": 4.0,
+        "y": 4.0,
+        "width": 12.0,
+        "height": 10.0
+      },
+      "rotation": 0,
+      "outputFile": "crops/free-001.png",
+      "outputWidth": 12,
+      "outputHeight": 10
+    }
+  ]
+}

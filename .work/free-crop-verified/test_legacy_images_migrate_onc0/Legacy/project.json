@@ -1,0 +1,42 @@
+{
+  "id": "fd33e706-83e4-4212-b47a-00c049f1be80",
+  "projectName": "Legacy",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-verified\\test_legacy_images_migrate_onc0\\Legacy",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "old",
+      "filename": "old.png",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-verified\\test_legacy_images_migrate_onc0\\Legacy\\sources\\old.png",
+      "width": 20,
+      "height": 30,
+      "sourceGroupId": "0e323b9f-815a-4f47-bbcb-1426b351791d"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Line",
+      "sourceImageId": "old",
+      "completed": true,
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 10,
+        "height": 20
+      },
+      "outputFile": "crops/001.png"
+    }
+  ],
+  "createdAt": "2026-10-12T14:01:29.241468+00:00",
+  "updatedAt": "2026-10-12T14:01:29.241468+00:00",
+  "sourceGroups": [
+    {
+      "id": "0e323b9f-815a-4f47-bbcb-1426b351791d",
+      "name": "Project files",
+      "kind": "project-files",
+      "createdAt": "2026-10-12T14:01:29.260231+00:00"
+    }
+  ],
+  "freeCrops": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "7bc510a7-6af5-47b1-8661-f0121bb727c8",
+  "projectName": "Legacy",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_legacy_images_migrate_onc0\\Legacy",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "old",
+      "filename": "old.png",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_legacy_images_migrate_onc0\\Legacy\\sources\\old.png",
+      "width": 20,
+      "height": 30,
+      "sourceGroupId": "ab8b5f37-5e9d-4c52-93a0-4a0cc2e3a122"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Line",
+      "sourceImageId": "old",
+      "completed": true,
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 10,
+        "height": 20
+      },
+      "outputFile": "crops/001.png"
+    }
+  ],
+  "createdAt": "2026-10-12T15:20:30.984700+00:00",
+  "updatedAt": "2026-10-12T15:20:30.984700+00:00",
+  "sourceGroups": [
+    {
+      "id": "ab8b5f37-5e9d-4c52-93a0-4a0cc2e3a122",
+      "name": "Project files",
+      "kind": "project-files",
+      "createdAt": "2026-10-12T15:20:31.027282+00:00"
+    }
+  ],
+  "freeCrops": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "140667d8-011f-420c-b572-be2ca1eff9d4",
+  "projectName": "Story",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-verified\\test_folder_snapshots_nested_f0\\Story",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "f8219978-e504-43de-9612-b20d86e8be4c",
+      "filename": "2.png",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-verified\\test_folder_snapshots_nested_f0\\Story\\sources\\99dea591-1866-42fc-ab54-8beb01493a3d_f8219978-e504-43de-9612-b20d86e8be4c.png",
+      "width": 10,
+      "height": 20,
+      "sourceGroupId": "99dea591-1866-42fc-ab54-8beb01493a3d",
+      "relativePath": "2.png"
+    },
+    {
+      "id": "0ae190bb-4812-45de-9206-d1605287e75b",
+      "filename": "2.png",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-verified\\test_folder_snapshots_nested_f0\\Story\\sources\\99dea591-1866-42fc-ab54-8beb01493a3d_0ae190bb-4812-45de-9206-d1605287e75b.png",
+      "width": 30,
+      "height": 40,
+      "sourceGroupId": "99dea591-1866-42fc-ab54-8beb01493a3d",
+      "relativePath": "nested/2.png"
+    },
+    {
+      "id": "b0402449-f622-4b8b-857e-f96ae49a6354",
+      "filename": "10.png",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-verified\\test_folder_snapshots_nested_f0\\Story\\sources\\35216620-e1e7-4131-85a9-9f65c12e1891_b0402449-f622-4b8b-857e-f96ae49a6354.png",
+      "width": 50,
+      "height": 60,
+      "sourceGroupId": "35216620-e1e7-4131-85a9-9f65c12e1891",
+      "relativePath": "10.png"
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "99dea591-1866-42fc-ab54-8beb01493a3d",
+      "name": "Chapter",
+      "kind": "folder",
+      "originalPath": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-verified\\test_folder_snapshots_nested_f0\\a\\Chapter",
+      "createdAt": "2026-10-12T14:01:29.392401+00:00"
+    },
+    {
+      "id": "35216620-e1e7-4131-85a9-9f65c12e1891",
+      "name": "Chapter",
+      "kind": "folder",
+      "originalPath": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-verified\\test_folder_snapshots_nested_f0\\b\\Chapter",
+      "createdAt": "2026-10-12T14:01:29.456571+00:00"
+    }
+  ],
+  "paragraphs": [],
+  "createdAt": "2026-10-12T14:01:29.295216+00:00",
+  "updatedAt": "2026-10-12T14:01:29.457949+00:00",
+  "freeCrops": []
+}

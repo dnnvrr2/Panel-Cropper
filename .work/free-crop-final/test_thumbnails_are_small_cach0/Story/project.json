@@ -1,0 +1,19 @@
+{
+  "id": "4e5b7421-c61d-42d1-8f51-abf1dd02f69e",
+  "projectName": "Story",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-final\\test_thumbnails_are_small_cach0\\Story",
+  "defaultAspectRatio": "9:16",
+  "images": [],
+  "sourceGroups": [
+    {
+      "id": "c22b5884-3d97-4d1f-80e4-10f10f43a76d",
+      "name": "Project files",
+      "kind": "project-files",
+      "createdAt": "2026-10-12T14:03:39.086017+00:00"
+    }
+  ],
+  "paragraphs": [],
+  "createdAt": "2026-10-12T14:03:38.966522+00:00",
+  "updatedAt": "2026-10-12T14:03:39.272397+00:00",
+  "freeCrops": []
+}

@@ -1,0 +1,13 @@
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by com.sun.jna.Native in an unnamed module (file:/C:/Users/Admin/Desktop/Suwayomi-Server/server/build/Suwayomi-Server-v2.4.2366.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+[18628:17068:1022/024312.207:ERROR:chrome\installer\util\google_update_settings.cc:265] Failed opening key Software\Chromium to set usagestats; result: 5
+[18628:10316:1022/034418.131:ERROR:components\device_event_log\device_event_log_impl.cc:202] [03:44:18.128] USB: usb_service_win.cc:108 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18628:10316:1022/034527.280:ERROR:components\device_event_log\device_event_log_impl.cc:202] [03:45:27.280] USB: usb_service_win.cc:108 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18628:10316:1022/034527.285:ERROR:components\device_event_log\device_event_log_impl.cc:202] [03:45:27.285] USB: usb_service_win.cc:311 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[18628:10316:1022/034528.312:ERROR:components\device_event_log\device_event_log_impl.cc:202] [03:45:28.312] USB: usb_service_win.cc:108 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18628:10316:1022/034528.320:ERROR:components\device_event_log\device_event_log_impl.cc:202] [03:45:28.320] USB: usb_service_win.cc:311 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[18628:10316:1022/052418.205:ERROR:components\device_event_log\device_event_log_impl.cc:202] [05:24:18.204] USB: usb_service_win.cc:108 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18628:10316:1022/052418.209:ERROR:components\device_event_log\device_event_log_impl.cc:202] [05:24:18.209] USB: usb_service_win.cc:311 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)

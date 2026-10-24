@@ -1,0 +1,81 @@
+{
+  "id": "9fca0f8f-9bbf-41cf-b7f8-829e37e7e7d1",
+  "projectName": "Online crops",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-retry-tests\\test_online_snapshot_crop_and_1\\Online crops",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "online-16ed59091ba54b303ba67e21-0-1",
+      "filename": "Chapter 1 · Page 1–2",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-retry-tests\\test_online_snapshot_crop_and_1\\Online crops\\sources\\online-16ed59091ba54b303ba67e21-0-1-0-98fd6f7b246e450bb52399a92aeb9f7f.png",
+      "width": 20,
+      "height": 40,
+      "sourceGroupId": "online-16ed59091ba54b303ba67e21",
+      "onlineOrigin": {
+        "serverUrl": "http://reader.test:4567",
+        "mangaId": 42,
+        "chapterId": 101,
+        "chapterIndex": 7,
+        "pageIndices": [
+          0,
+          1
+        ],
+        "wholeChapter": false
+      },
+      "stripPages": [
+        {
+          "id": "page-0",
+          "filename": "Page 1",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-retry-tests\\test_online_snapshot_crop_and_1\\Online crops\\sources\\online-16ed59091ba54b303ba67e21-0-1-0-98fd6f7b246e450bb52399a92aeb9f7f.png",
+          "width": 20,
+          "height": 20,
+          "top": 0,
+          "stripHeight": 20
+        },
+        {
+          "id": "page-1",
+          "filename": "Page 2",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-retry-tests\\test_online_snapshot_crop_and_1\\Online crops\\sources\\online-16ed59091ba54b303ba67e21-0-1-1-3331e26f1b9d4a1a9ad4ecb6a0a25429.png",
+          "width": 10,
+          "height": 10,
+          "top": 20,
+          "stripHeight": 20
+        }
+      ]
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "online-16ed59091ba54b303ba67e21",
+      "name": "Test Series · Chapter 1",
+      "kind": "online",
+      "createdAt": "2026-10-12T15:26:44.110157+00:00"
+    }
+  ],
+  "paragraphs": [],
+  "createdAt": "2026-10-12T15:26:43.522282+00:00",
+  "updatedAt": "2026-10-12T15:26:44.289982+00:00",
+  "cropMode": "free",
+  "freeCrops": [
+    {
+      "id": "p1",
+      "text": "",
+      "aspectRatio": "1:1",
+      "zoom": 1.0,
+      "panX": 0.0,
+      "panY": 0.0,
+      "completed": true,
+      "sourceImageId": "online-16ed59091ba54b303ba67e21-0-1",
+      "crop": {
+        "x": 4.0,
+        "y": 16.0,
+        "width": 12.0,
+        "height": 10.0
+      },
+      "rotation": 0,
+      "outputFile": "crops/free-001.png",
+      "outputWidth": 12,
+      "outputHeight": 10
+    }
+  ]
+}

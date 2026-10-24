@@ -1,0 +1,29 @@
+{
+  "id": "2a2e8bdc-a595-4032-a4b6-311ea2706299",
+  "projectName": "Comic",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-final\\test_cbz_bad_archive_cleanup_s0\\Comic",
+  "defaultAspectRatio": "9:16",
+  "images": [],
+  "sourceGroups": [
+    {
+      "id": "9f8e9138-eae5-414f-9321-2edf1beb4e28",
+      "name": "Safe",
+      "kind": "cbz",
+      "createdAt": "2026-10-12T14:03:36.452017+00:00"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "First crop",
+      "aspectRatio": "1:1",
+      "zoom": 1,
+      "panX": 0,
+      "panY": 0,
+      "completed": false
+    }
+  ],
+  "createdAt": "2026-10-12T14:03:36.229999+00:00",
+  "updatedAt": "2026-10-12T14:03:36.541528+00:00",
+  "freeCrops": []
+}

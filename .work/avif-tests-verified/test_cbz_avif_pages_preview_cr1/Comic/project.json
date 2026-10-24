@@ -1,0 +1,68 @@
+{
+  "id": "7aff49d5-a354-4dc1-b561-b8bf256e0a01",
+  "projectName": "Comic",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_cbz_avif_pages_preview_cr1\\Comic",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "226803ed-cd99-4c4e-8e92-64a202ef0fda",
+      "filename": "Avif.cbz",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_cbz_avif_pages_preview_cr1\\Comic\\sources\\226803ed-cd99-4c4e-8e92-64a202ef0fda_ed83abe9-c69d-4f79-9bf1-2fd72122d0af.avif",
+      "width": 20,
+      "height": 40,
+      "sourceGroupId": "7755d303-02fd-4f4c-9939-85325932412c",
+      "stripPages": [
+        {
+          "id": "ed83abe9-c69d-4f79-9bf1-2fd72122d0af",
+          "filename": "pages/2.AVIF",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_cbz_avif_pages_preview_cr1\\Comic\\sources\\226803ed-cd99-4c4e-8e92-64a202ef0fda_ed83abe9-c69d-4f79-9bf1-2fd72122d0af.avif",
+          "width": 20,
+          "height": 20,
+          "top": 0,
+          "stripHeight": 20
+        },
+        {
+          "id": "773dfae9-3155-486d-b0ac-32156cbaeb53",
+          "filename": "pages/10.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_cbz_avif_pages_preview_cr1\\Comic\\sources\\226803ed-cd99-4c4e-8e92-64a202ef0fda_773dfae9-3155-486d-b0ac-32156cbaeb53.png",
+          "width": 10,
+          "height": 10,
+          "top": 20,
+          "stripHeight": 20
+        }
+      ]
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "7755d303-02fd-4f4c-9939-85325932412c",
+      "name": "Avif",
+      "kind": "cbz",
+      "createdAt": "2026-10-08T09:50:32.637720+00:00"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "First crop",
+      "aspectRatio": "1:1",
+      "zoom": 1.0,
+      "panX": 0.0,
+      "panY": 0.0,
+      "completed": true,
+      "sourceImageId": "226803ed-cd99-4c4e-8e92-64a202ef0fda",
+      "crop": {
+        "x": 4.0,
+        "y": 16.0,
+        "width": 12.0,
+        "height": 10.0
+      },
+      "rotation": 0,
+      "outputFile": "crops/001.png",
+      "outputWidth": 12,
+      "outputHeight": 10
+    }
+  ],
+  "createdAt": "2026-10-08T09:50:32.513634+00:00",
+  "updatedAt": "2026-10-08T09:50:32.755526+00:00"
+}

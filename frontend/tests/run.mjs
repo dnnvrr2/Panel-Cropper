@@ -1,0 +1,9 @@
+import "./imageUsage.test.mjs";
+import "./normalizeProject.test.mjs";
+import "./removableImages.test.mjs";
+import "./undoHistory.test.mjs";
+import "./paragraphAssignments.test.mjs";
+import "./previewRotation.test.mjs";
+import "./cbz.test.mjs";
+import "./freeCrop.test.mjs";
+import "./online.test.mjs";

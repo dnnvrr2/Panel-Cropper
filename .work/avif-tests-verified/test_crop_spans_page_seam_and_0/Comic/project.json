@@ -1,0 +1,68 @@
+{
+  "id": "b7e129fe-6326-43f5-8a8f-f95eb0afd90d",
+  "projectName": "Comic",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_crop_spans_page_seam_and_0\\Comic",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "b1446f5b-33b1-4460-9d89-1591ce3e0c72",
+      "filename": "Book.cbz",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_crop_spans_page_seam_and_0\\Comic\\sources\\b1446f5b-33b1-4460-9d89-1591ce3e0c72_540b31d2-11ff-4297-a1dd-72471c5c4c5a.png",
+      "width": 20,
+      "height": 40,
+      "sourceGroupId": "63971a03-6a3f-4295-9156-0b9aab3a64ed",
+      "stripPages": [
+        {
+          "id": "540b31d2-11ff-4297-a1dd-72471c5c4c5a",
+          "filename": "1.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_crop_spans_page_seam_and_0\\Comic\\sources\\b1446f5b-33b1-4460-9d89-1591ce3e0c72_540b31d2-11ff-4297-a1dd-72471c5c4c5a.png",
+          "width": 20,
+          "height": 20,
+          "top": 0,
+          "stripHeight": 20
+        },
+        {
+          "id": "574bfda6-6a62-4087-83d5-510ea3b46ae4",
+          "filename": "2.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_crop_spans_page_seam_and_0\\Comic\\sources\\b1446f5b-33b1-4460-9d89-1591ce3e0c72_574bfda6-6a62-4087-83d5-510ea3b46ae4.png",
+          "width": 10,
+          "height": 10,
+          "top": 20,
+          "stripHeight": 20
+        }
+      ]
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "63971a03-6a3f-4295-9156-0b9aab3a64ed",
+      "name": "Book",
+      "kind": "cbz",
+      "createdAt": "2026-10-08T09:50:31.228590+00:00"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "First crop",
+      "aspectRatio": "1:1",
+      "zoom": 1.0,
+      "panX": 0.0,
+      "panY": 0.0,
+      "completed": true,
+      "sourceImageId": "b1446f5b-33b1-4460-9d89-1591ce3e0c72",
+      "crop": {
+        "x": 4.0,
+        "y": 16.0,
+        "width": 12.0,
+        "height": 10.0
+      },
+      "rotation": 0,
+      "outputFile": "crops/001.png",
+      "outputWidth": 12,
+      "outputHeight": 10
+    }
+  ],
+  "createdAt": "2026-10-08T09:50:31.128537+00:00",
+  "updatedAt": "2026-10-08T09:50:31.341394+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0056887f-70ba-4fb3-8cf4-d623fd282684",
+  "projectName": "Story",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_crop_saves_selected_image0\\Story",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "5c5d5916-8d9d-4dce-9593-a753d52615cf",
+      "filename": "source.png",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_crop_saves_selected_image0\\Story\\sources\\source.png",
+      "width": 1600,
+      "height": 1200,
+      "sourceGroupId": "3eaab41f-25b3-4fb2-9be4-7064f68b09cb"
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "3eaab41f-25b3-4fb2-9be4-7064f68b09cb",
+      "name": "Project files",
+      "kind": "project-files",
+      "createdAt": "2026-10-08T09:50:33.281210+00:00"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "line-1",
+      "text": "First line",
+      "draftImageId": "5c5d5916-8d9d-4dce-9593-a753d52615cf",
+      "aspectRatio": "9:16",
+      "zoom": 1.0,
+      "panX": 0.0,
+      "panY": 0.0,
+      "completed": false,
+      "sourceImageId": "5c5d5916-8d9d-4dce-9593-a753d52615cf",
+      "crop": {
+        "x": 100.0,
+        "y": 100.0,
+        "width": 1280.0,
+        "height": 720.0
+      },
+      "rotation": 90,
+      "outputFile": "crops/001.png",
+      "outputWidth": 720,
+      "outputHeight": 1280
+    }
+  ],
+  "createdAt": "2026-10-08T09:50:33.179480+00:00",
+  "updatedAt": "2026-10-08T09:50:33.463091+00:00"
+}

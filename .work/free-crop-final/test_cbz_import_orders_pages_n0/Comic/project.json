@@ -1,0 +1,67 @@
+{
+  "id": "de402379-1f06-4223-9e79-cc581f315742",
+  "projectName": "Comic",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-final\\test_cbz_import_orders_pages_n0\\Comic",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "d4060c3e-8cc4-43b1-a6b7-c42b62fc63d9",
+      "filename": "Chapter.cbz",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-final\\test_cbz_import_orders_pages_n0\\Comic\\sources\\d4060c3e-8cc4-43b1-a6b7-c42b62fc63d9_b110b72b-77af-4135-a6c4-4499f2faf735.png",
+      "width": 20,
+      "height": 60,
+      "sourceGroupId": "0589a6ec-6c15-4b95-bf7f-2803bf7f2b55",
+      "stripPages": [
+        {
+          "id": "b110b72b-77af-4135-a6c4-4499f2faf735",
+          "filename": "pages/1.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-final\\test_cbz_import_orders_pages_n0\\Comic\\sources\\d4060c3e-8cc4-43b1-a6b7-c42b62fc63d9_b110b72b-77af-4135-a6c4-4499f2faf735.png",
+          "width": 20,
+          "height": 20,
+          "top": 0,
+          "stripHeight": 20
+        },
+        {
+          "id": "e1b89d40-f668-44ac-b483-ef619c032ac8",
+          "filename": "pages/2.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-final\\test_cbz_import_orders_pages_n0\\Comic\\sources\\d4060c3e-8cc4-43b1-a6b7-c42b62fc63d9_e1b89d40-f668-44ac-b483-ef619c032ac8.png",
+          "width": 10,
+          "height": 10,
+          "top": 20,
+          "stripHeight": 20
+        },
+        {
+          "id": "9d21c924-ad4c-4056-bcfa-857ed6b484f4",
+          "filename": "pages/10.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\free-crop-final\\test_cbz_import_orders_pages_n0\\Comic\\sources\\d4060c3e-8cc4-43b1-a6b7-c42b62fc63d9_9d21c924-ad4c-4056-bcfa-857ed6b484f4.png",
+          "width": 20,
+          "height": 20,
+          "top": 40,
+          "stripHeight": 20
+        }
+      ]
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "0589a6ec-6c15-4b95-bf7f-2803bf7f2b55",
+      "name": "Chapter",
+      "kind": "cbz",
+      "createdAt": "2026-10-12T14:03:32.310805+00:00"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "First crop",
+      "aspectRatio": "1:1",
+      "zoom": 1,
+      "panX": 0,
+      "panY": 0,
+      "completed": false
+    }
+  ],
+  "createdAt": "2026-10-12T14:03:31.943934+00:00",
+  "updatedAt": "2026-10-12T14:03:32.583705+00:00",
+  "freeCrops": []
+}

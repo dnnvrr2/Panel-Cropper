@@ -1,0 +1,69 @@
+{
+  "id": "2edd4bd8-36c8-4cb9-a917-fae645815a37",
+  "projectName": "Comic",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_cbz_avif_pages_preview_cr0\\Comic",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "1a14f000-5ebe-4a47-9cd8-a924a1f6472d",
+      "filename": "Avif.cbz",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_cbz_avif_pages_preview_cr0\\Comic\\sources\\1a14f000-5ebe-4a47-9cd8-a924a1f6472d_f7460403-eb03-4273-ba5e-9faf4823bbdd.avif",
+      "width": 20,
+      "height": 40,
+      "sourceGroupId": "307bbd8d-2070-4be9-b760-98f3a2c0142b",
+      "stripPages": [
+        {
+          "id": "f7460403-eb03-4273-ba5e-9faf4823bbdd",
+          "filename": "pages/2.AVIF",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_cbz_avif_pages_preview_cr0\\Comic\\sources\\1a14f000-5ebe-4a47-9cd8-a924a1f6472d_f7460403-eb03-4273-ba5e-9faf4823bbdd.avif",
+          "width": 20,
+          "height": 20,
+          "top": 0,
+          "stripHeight": 20
+        },
+        {
+          "id": "d353d320-1667-4100-b5b9-03d0495107e8",
+          "filename": "pages/10.avif",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_cbz_avif_pages_preview_cr0\\Comic\\sources\\1a14f000-5ebe-4a47-9cd8-a924a1f6472d_d353d320-1667-4100-b5b9-03d0495107e8.avif",
+          "width": 10,
+          "height": 10,
+          "top": 20,
+          "stripHeight": 20
+        }
+      ]
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "307bbd8d-2070-4be9-b760-98f3a2c0142b",
+      "name": "Avif",
+      "kind": "cbz",
+      "createdAt": "2026-10-12T15:20:25.695547+00:00"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "First crop",
+      "aspectRatio": "1:1",
+      "zoom": 1.0,
+      "panX": 0.0,
+      "panY": 0.0,
+      "completed": true,
+      "sourceImageId": "1a14f000-5ebe-4a47-9cd8-a924a1f6472d",
+      "crop": {
+        "x": 4.0,
+        "y": 16.0,
+        "width": 12.0,
+        "height": 10.0
+      },
+      "rotation": 0,
+      "outputFile": "crops/001.png",
+      "outputWidth": 12,
+      "outputHeight": 10
+    }
+  ],
+  "createdAt": "2026-10-12T15:20:25.468211+00:00",
+  "updatedAt": "2026-10-12T15:20:25.856858+00:00",
+  "freeCrops": []
+}

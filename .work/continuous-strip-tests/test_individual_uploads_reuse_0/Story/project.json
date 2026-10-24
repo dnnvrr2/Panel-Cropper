@@ -1,0 +1,36 @@
+{
+  "id": "c5256d3e-d622-45aa-bfb0-d9c7d7059234",
+  "projectName": "Story",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_individual_uploads_reuse_0\\Story",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "5edab8ed-fc72-4061-a7e1-79b7aedc5504",
+      "filename": "one.png",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_individual_uploads_reuse_0\\Story\\sources\\5edab8ed-fc72-4061-a7e1-79b7aedc5504_one.png",
+      "width": 20,
+      "height": 30,
+      "sourceGroupId": "3d1583a0-534b-42bc-9661-e05f58a16990"
+    },
+    {
+      "id": "d966b5e0-1ebd-4903-81f3-c6b018e07ea7",
+      "filename": "two.png",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_individual_uploads_reuse_0\\Story\\sources\\d966b5e0-1ebd-4903-81f3-c6b018e07ea7_two.png",
+      "width": 20,
+      "height": 30,
+      "sourceGroupId": "3d1583a0-534b-42bc-9661-e05f58a16990"
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "3d1583a0-534b-42bc-9661-e05f58a16990",
+      "name": "Project files",
+      "kind": "project-files",
+      "createdAt": "2026-10-12T15:20:31.420300+00:00"
+    }
+  ],
+  "paragraphs": [],
+  "createdAt": "2026-10-12T15:20:31.380489+00:00",
+  "updatedAt": "2026-10-12T15:20:31.453560+00:00",
+  "freeCrops": []
+}

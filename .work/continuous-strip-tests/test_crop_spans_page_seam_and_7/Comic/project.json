@@ -1,0 +1,70 @@
+{
+  "id": "55f5328e-a921-4df1-b2c0-23594af91d2b",
+  "projectName": "Comic",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_crop_spans_page_seam_and_7\\Comic",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "628ac1ff-8686-44d3-a4f9-bebcc7693de6",
+      "filename": "Book.cbz",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_crop_spans_page_seam_and_7\\Comic\\sources\\628ac1ff-8686-44d3-a4f9-bebcc7693de6_3a84a7d3-5be7-4ce1-bb6d-ab4f066d10da.png",
+      "width": 20,
+      "height": 40,
+      "sourceGroupId": "833df6d3-21ca-4184-aa3a-9e5dff6905b1",
+      "stripPages": [
+        {
+          "id": "3a84a7d3-5be7-4ce1-bb6d-ab4f066d10da",
+          "filename": "1.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_crop_spans_page_seam_and_7\\Comic\\sources\\628ac1ff-8686-44d3-a4f9-bebcc7693de6_3a84a7d3-5be7-4ce1-bb6d-ab4f066d10da.png",
+          "width": 20,
+          "height": 20,
+          "top": 0,
+          "stripHeight": 20
+        },
+        {
+          "id": "f0f13f76-2726-4150-a69d-3afceb7e2351",
+          "filename": "2.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_crop_spans_page_seam_and_7\\Comic\\sources\\628ac1ff-8686-44d3-a4f9-bebcc7693de6_f0f13f76-2726-4150-a69d-3afceb7e2351.png",
+          "width": 10,
+          "height": 10,
+          "top": 20,
+          "stripHeight": 20
+        }
+      ]
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "833df6d3-21ca-4184-aa3a-9e5dff6905b1",
+      "name": "Book",
+      "kind": "cbz",
+      "createdAt": "2026-10-12T15:20:25.311047+00:00"
+    }
+  ],
+  "paragraphs": [],
+  "createdAt": "2026-10-12T15:20:25.235627+00:00",
+  "updatedAt": "2026-10-12T15:20:25.412723+00:00",
+  "freeCrops": [
+    {
+      "id": "p1",
+      "text": "First crop",
+      "aspectRatio": "1:1",
+      "zoom": 1.0,
+      "panX": 0.0,
+      "panY": 0.0,
+      "completed": true,
+      "sourceImageId": "628ac1ff-8686-44d3-a4f9-bebcc7693de6",
+      "crop": {
+        "x": 4.0,
+        "y": 16.0,
+        "width": 12.0,
+        "height": 10.0
+      },
+      "rotation": 270,
+      "outputFile": "crops/free-001.png",
+      "outputWidth": 10,
+      "outputHeight": 12
+    }
+  ],
+  "cropMode": "free"
+}

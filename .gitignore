@@ -1,0 +1,14 @@
+.pytest_cache/
+**/__pycache__/
+*.py[cod]
+
+backend/data/projects.json
+backend/data/online-settings.json
+backend/data/online-cache/
+
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
+

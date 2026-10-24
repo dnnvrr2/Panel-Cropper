@@ -1,0 +1,42 @@
+kotlin-logging: initializing... active logger factory: Slf4jLoggerFactory
+22:34:56.309 [Thread-3] INFO suwayomi.tachidesk.server.ServerSetup -- Starting Android Main Loop
+22:34:58.841 [main] INFO suwayomi.tachidesk.server.ServerSetup -- Running Suwayomi-Server v2.4.2366
+22:34:59.879 [main] INFO suwayomi.tachidesk.server.util.AppMutex -- Mutex status is clear, Resuming startup.
+22:35:00.157 [main] INFO Migration -- Running migrations, previous version 3, target version 3
+22:35:00.248 [main] INFO com.zaxxer.hikari.HikariDataSource -- Suwayomi-DB-Pool - Starting...
+22:35:02.015 [main] INFO com.zaxxer.hikari.pool.HikariPool -- Suwayomi-DB-Pool - Added connection conn11: url=jdbc:h2:C:\Users\Admin\AppData\Local\Tachidesk/database user=
+22:35:02.022 [main] INFO com.zaxxer.hikari.HikariDataSource -- Suwayomi-DB-Pool - Start completed.
+22:35:02.185 [main] INFO suwayomi.tachidesk.server.database.DBManager -- Using H2 database version 2.4.0
+22:35:02.765 [main] INFO de.neonew.exposed.migrations.RunMigrations -- Running migrations on database jdbc:h2:C:\Users\Admin\AppData\Local\Tachidesk/database
+22:35:03.075 [main] INFO de.neonew.exposed.migrations.RunMigrations -- Database version before migrations: 65
+22:35:03.078 [main] INFO de.neonew.exposed.migrations.RunMigrations -- Migrations finished successfully
+22:35:03.079 [main] INFO Migration -- Migrations finished successfully
+22:35:03.194 [DefaultDispatcher-worker-3] INFO suwayomi.tachidesk.server.ServerSetup -- Socks Proxy changed - enabled=false address=: , username=[REDACTED], password=[REDACTED]
+22:35:04.272 [DefaultDispatcher-worker-5] INFO suwayomi.tachidesk.manga.impl.update.Updater -- Trigger global update (interval= 12.0h, lastAutomatedUpdate= Sun Oct 11 20:08:24 PST 2026)
+22:35:05.977 [main] INFO io.javalin.Javalin -- Static file handler added: StaticFileConfig(hostedPath=/, directory=C:\Users\Admin\AppData\Local\Temp\Tachidesk\webUI-serve, location=EXTERNAL, precompressMaxSize=-1, aliasCheck=suwayomi.tachidesk.server.util.WebInterfaceManager$$Lambda/0x000000008551c4e8@7b53b1ad, headers={Cache-Control=max-age=0}, skipFileFunction=null, mimeTypes={}, roles=[]). File system location: 'file:///C:/Users/Admin/AppData/Local/Temp/Tachidesk/webUI-serve/'
+22:35:06.039 [DefaultDispatcher-worker-3] INFO suwayomi.tachidesk.server.util.WebInterfaceManager setupWebUI(flavor= WebUI, servedFlavor= WebUI, channel= kotlinx.coroutines.flow.StateFlowImpl@332f381a) -- found webUI files - version= r3518
+22:35:07.599 [main] INFO io.javalin.Javalin -- Starting Javalin ...
+22:35:08.094 [DefaultDispatcher-worker-6] INFO suwayomi.tachidesk.manga.impl.update.Updater -- Updating "My Blasted Reincarnated Life" (id= 37) (sourceId= 4709139914729853090)
+22:35:09.056 [main] INFO io.javalin.Javalin -- 
+       __                  ___          _____
+      / /___ __   ______ _/ (_)___     /__  /
+ __  / / __ `/ | / / __ `/ / / __ \      / /
+/ /_/ / /_/ /| |/ / /_/ / / / / / /     / /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/     /_/
+
+       https://javalin.io/documentation
+
+22:35:09.058 [main] INFO io.javalin.Javalin -- Javalin started in 1827ms \o/
+22:35:09.064 [main] INFO io.javalin.Javalin -- Listening on http://0.0.0.0:4567/
+22:35:09.133 [main] INFO io.javalin.Javalin -- You are running Javalin 7.2.3 (released August 11, 2026).
+22:35:09.149 [main] INFO suwayomi.tachidesk.server.JavalinSetup -- Server is available at:
+  http://127.0.0.1:4567
+  http://192.168.56.1:4567
+  http://172.21.160.1:4567
+  http://192.168.1.5:4567
+22:35:10.812 [DefaultDispatcher-worker-4] INFO dorkbox.systemTray.SystemTray -- Successfully loaded
+22:35:12.936 [DefaultDispatcher-worker-3] INFO suwayomi.tachidesk.server.util.WebInterfaceManager -- Serving SPA files for WEBUI
+22:35:12.938 [DefaultDispatcher-worker-3] INFO suwayomi.tachidesk.server.util.WebInterfaceManager isLocalWebUIValid(flavor= WebUI, path= C:\Users\Admin\AppData\Local\Tachidesk/webUI) -- Verifying WebUI files...
+22:35:15.092 [DefaultDispatcher-worker-9] INFO suwayomi.tachidesk.server.util.WebInterfaceManager isLocalWebUIValid(flavor= WebUI, path= C:\Users\Admin\AppData\Local\Tachidesk/webUI) -- Validation succeeded - md5: local= 4300ee013d23873539e4437f6dae3a19; expected= 4300ee013d23873539e4437f6dae3a19
+00:00:03.637 [cron4j::scheduler[445ca5cc7b4771411dbd16a6000001a13089deb04acca7b7]::executor[445ca5cc7b4771416680783a000001a130d7a0046ac028d3]] INFO suwayomi.tachidesk.manga.impl.backup.proto.ProtoBackupExport -- Creating automated backup...
+05:21:26.316 [Thread-30] INFO io.javalin.Javalin -- Stopping Javalin ...

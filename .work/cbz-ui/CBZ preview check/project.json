@@ -1,0 +1,160 @@
+{
+  "id": "0ebd8e61-ecfc-47c7-b795-eca3feec30fa",
+  "projectName": "CBZ preview check",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\cbz-ui\\CBZ preview check",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "e3d97262-67cf-47ab-898b-2fa34a6e37e8",
+      "filename": "Preview sample.cbz",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\cbz-ui\\CBZ preview check\\sources\\e3d97262-67cf-47ab-898b-2fa34a6e37e8_63375145-e78f-4ce5-a77c-667c7ab1422f.png",
+      "width": 800,
+      "height": 14400,
+      "sourceGroupId": "8d3ee4c5-e944-439f-9d8f-f98dff27805c",
+      "stripPages": [
+        {
+          "id": "63375145-e78f-4ce5-a77c-667c7ab1422f",
+          "filename": "1.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\cbz-ui\\CBZ preview check\\sources\\e3d97262-67cf-47ab-898b-2fa34a6e37e8_63375145-e78f-4ce5-a77c-667c7ab1422f.png",
+          "width": 800,
+          "height": 1200,
+          "top": 0,
+          "stripHeight": 1200
+        },
+        {
+          "id": "f15836dc-6b6c-483e-94c5-66fc4eb8f136",
+          "filename": "2.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\cbz-ui\\CBZ preview check\\sources\\e3d97262-67cf-47ab-898b-2fa34a6e37e8_f15836dc-6b6c-483e-94c5-66fc4eb8f136.png",
+          "width": 400,
+          "height": 600,
+          "top": 1200,
+          "stripHeight": 1200
+        },
+        {
+          "id": "1ec9aed0-ad78-45fe-b0f5-3ea0407ffb01",
+          "filename": "3.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\cbz-ui\\CBZ preview check\\sources\\e3d97262-67cf-47ab-898b-2fa34a6e37e8_1ec9aed0-ad78-45fe-b0f5-3ea0407ffb01.png",
+          "width": 800,
+          "height": 1200,
+          "top": 2400,
+          "stripHeight": 1200
+        },
+        {
+          "id": "0a0e309a-8b26-4339-8fc6-7438d166063f",
+          "filename": "4.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\cbz-ui\\CBZ preview check\\sources\\e3d97262-67cf-47ab-898b-2fa34a6e37e8_0a0e309a-8b26-4339-8fc6-7438d166063f.png",
+          "width": 800,
+          "height": 1200,
+          "top": 3600,
+          "stripHeight": 1200
+        },
+        {
+          "id": "40b3c84e-a5e5-4cc8-a8f4-c09ddfb2e327",
+          "filename": "5.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\cbz-ui\\CBZ preview check\\sources\\e3d97262-67cf-47ab-898b-2fa34a6e37e8_40b3c84e-a5e5-4cc8-a8f4-c09ddfb2e327.png",
+          "width": 800,
+          "height": 1200,
+          "top": 4800,
+          "stripHeight": 1200
+        },
+        {
+          "id": "526b5530-ab46-45ec-b513-77a8b35382d3",
+          "filename": "6.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\cbz-ui\\CBZ preview check\\sources\\e3d97262-67cf-47ab-898b-2fa34a6e37e8_526b5530-ab46-45ec-b513-77a8b35382d3.png",
+          "width": 800,
+          "height": 1200,
+          "top": 6000,
+          "stripHeight": 1200
+        },
+        {
+          "id": "17c3a14c-d54a-4011-a206-c4a9855829bb",
+          "filename": "7.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\cbz-ui\\CBZ preview check\\sources\\e3d97262-67cf-47ab-898b-2fa34a6e37e8_17c3a14c-d54a-4011-a206-c4a9855829bb.png",
+          "width": 800,
+          "height": 1200,
+          "top": 7200,
+          "stripHeight": 1200
+        },
+        {
+          "id": "1a96d5c6-30cc-4d95-83a3-b4028418edae",
+          "filename": "8.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\cbz-ui\\CBZ preview check\\sources\\e3d97262-67cf-47ab-898b-2fa34a6e37e8_1a96d5c6-30cc-4d95-83a3-b4028418edae.png",
+          "width": 800,
+          "height": 1200,
+          "top": 8400,
+          "stripHeight": 1200
+        },
+        {
+          "id": "39aaf06a-eb42-4faa-b9b1-17de741202b0",
+          "filename": "9.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\cbz-ui\\CBZ preview check\\sources\\e3d97262-67cf-47ab-898b-2fa34a6e37e8_39aaf06a-eb42-4faa-b9b1-17de741202b0.png",
+          "width": 800,
+          "height": 1200,
+          "top": 9600,
+          "stripHeight": 1200
+        },
+        {
+          "id": "3cf11d02-7c51-4595-8759-b25d058f8bc9",
+          "filename": "10.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\cbz-ui\\CBZ preview check\\sources\\e3d97262-67cf-47ab-898b-2fa34a6e37e8_3cf11d02-7c51-4595-8759-b25d058f8bc9.png",
+          "width": 800,
+          "height": 1200,
+          "top": 10800,
+          "stripHeight": 1200
+        },
+        {
+          "id": "1a04858d-23eb-477d-85ca-4478b3da4ff3",
+          "filename": "11.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\cbz-ui\\CBZ preview check\\sources\\e3d97262-67cf-47ab-898b-2fa34a6e37e8_1a04858d-23eb-477d-85ca-4478b3da4ff3.png",
+          "width": 800,
+          "height": 1200,
+          "top": 12000,
+          "stripHeight": 1200
+        },
+        {
+          "id": "f6ffaf38-de5d-4e18-ada3-6d20dd6050ba",
+          "filename": "12.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\cbz-ui\\CBZ preview check\\sources\\e3d97262-67cf-47ab-898b-2fa34a6e37e8_f6ffaf38-de5d-4e18-ada3-6d20dd6050ba.png",
+          "width": 800,
+          "height": 1200,
+          "top": 13200,
+          "stripHeight": 1200
+        }
+      ]
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "8d3ee4c5-e944-439f-9d8f-f98dff27805c",
+      "name": "Preview sample",
+      "kind": "cbz",
+      "createdAt": "2026-10-04T08:00:48.363293+00:00"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "6a95325e-ddd8-4969-a232-47f27c81ef4a",
+      "text": "Crop across two CBZ pages",
+      "aspectRatio": "9:16",
+      "zoom": 1.0,
+      "viewZoom": 1,
+      "rotation": 0,
+      "panX": 0.0,
+      "panY": 0.0,
+      "completed": true,
+      "crop": {
+        "x": 40.0,
+        "y": 1767.2527935905546,
+        "width": 720.0,
+        "height": 1280.0
+      },
+      "draftImageId": "e3d97262-67cf-47ab-898b-2fa34a6e37e8",
+      "sourceImageId": "e3d97262-67cf-47ab-898b-2fa34a6e37e8",
+      "outputFile": "crops/001.png",
+      "outputWidth": 720,
+      "outputHeight": 1280
+    }
+  ],
+  "createdAt": "2026-10-04T07:57:11.972394+00:00",
+  "updatedAt": "2026-10-04T08:01:31.492531+00:00"
+}

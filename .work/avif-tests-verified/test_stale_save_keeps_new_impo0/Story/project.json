@@ -1,0 +1,29 @@
+{
+  "id": "cb797d4c-04bc-4911-8ac9-d4b7d34069a0",
+  "projectName": "Story",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_stale_save_keeps_new_impo0\\Story",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "d9cfcfc0-d375-4fdf-950d-4af31ed5d1b0",
+      "filename": "1.png",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_stale_save_keeps_new_impo0\\Story\\sources\\16711dd6-c04f-4083-92d5-97db2aebc511_d9cfcfc0-d375-4fdf-950d-4af31ed5d1b0.png",
+      "width": 10,
+      "height": 10,
+      "sourceGroupId": "16711dd6-c04f-4083-92d5-97db2aebc511",
+      "relativePath": "1.png"
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "16711dd6-c04f-4083-92d5-97db2aebc511",
+      "name": "Chapter",
+      "kind": "folder",
+      "originalPath": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_stale_save_keeps_new_impo0\\Chapter",
+      "createdAt": "2026-10-08T09:50:34.244681+00:00"
+    }
+  ],
+  "paragraphs": [],
+  "createdAt": "2026-10-08T09:50:34.205170+00:00",
+  "updatedAt": "2026-10-08T09:50:34.304113+00:00"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "1673e46c-668f-456d-ac54-ac8713ea5c29",
+  "projectName": "Comic",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\online-tests-final\\test_cbz_import_orders_pages_n0\\Comic",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "f841ec24-1d2e-44ef-8867-040510910f47",
+      "filename": "Chapter.cbz",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\online-tests-final\\test_cbz_import_orders_pages_n0\\Comic\\sources\\f841ec24-1d2e-44ef-8867-040510910f47_5dbbe72a-7173-472b-8de7-d72fccb0035e.png",
+      "width": 20,
+      "height": 60,
+      "sourceGroupId": "f4cbfd97-cbf4-4f26-bc95-f3bd1dd35d6c",
+      "stripPages": [
+        {
+          "id": "5dbbe72a-7173-472b-8de7-d72fccb0035e",
+          "filename": "pages/1.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\online-tests-final\\test_cbz_import_orders_pages_n0\\Comic\\sources\\f841ec24-1d2e-44ef-8867-040510910f47_5dbbe72a-7173-472b-8de7-d72fccb0035e.png",
+          "width": 20,
+          "height": 20,
+          "top": 0,
+          "stripHeight": 20
+        },
+        {
+          "id": "1ed8321a-ba0a-4fd4-a192-8c9ba7d14fd6",
+          "filename": "pages/2.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\online-tests-final\\test_cbz_import_orders_pages_n0\\Comic\\sources\\f841ec24-1d2e-44ef-8867-040510910f47_1ed8321a-ba0a-4fd4-a192-8c9ba7d14fd6.png",
+          "width": 10,
+          "height": 10,
+          "top": 20,
+          "stripHeight": 20
+        },
+        {
+          "id": "18c0bd86-17f6-491c-a167-f542581d39f9",
+          "filename": "pages/10.png",
+          "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\online-tests-final\\test_cbz_import_orders_pages_n0\\Comic\\sources\\f841ec24-1d2e-44ef-8867-040510910f47_18c0bd86-17f6-491c-a167-f542581d39f9.png",
+          "width": 20,
+          "height": 20,
+          "top": 40,
+          "stripHeight": 20
+        }
+      ]
+    }
+  ],
+  "sourceGroups": [
+    {
+      "id": "f4cbfd97-cbf4-4f26-bc95-f3bd1dd35d6c",
+      "name": "Chapter",
+      "kind": "cbz",
+      "createdAt": "2026-10-12T14:41:17.149087+00:00"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "First crop",
+      "aspectRatio": "1:1",
+      "zoom": 1,
+      "panX": 0,
+      "panY": 0,
+      "completed": false
+    }
+  ],
+  "createdAt": "2026-10-12T14:41:16.865247+00:00",
+  "updatedAt": "2026-10-12T14:41:17.359146+00:00",
+  "freeCrops": []
+}

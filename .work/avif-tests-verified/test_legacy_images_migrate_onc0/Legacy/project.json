@@ -1,0 +1,41 @@
+{
+  "id": "d6f7bb2d-bc45-49ba-ac63-772d924f44c0",
+  "projectName": "Legacy",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_legacy_images_migrate_onc0\\Legacy",
+  "defaultAspectRatio": "9:16",
+  "images": [
+    {
+      "id": "old",
+      "filename": "old.png",
+      "path": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\avif-tests-verified\\test_legacy_images_migrate_onc0\\Legacy\\sources\\old.png",
+      "width": 20,
+      "height": 30,
+      "sourceGroupId": "9e740210-31e2-4d91-a1ed-d2b0509a6ea1"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Line",
+      "sourceImageId": "old",
+      "completed": true,
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 10,
+        "height": 20
+      },
+      "outputFile": "crops/001.png"
+    }
+  ],
+  "createdAt": "2026-10-08T09:50:33.782049+00:00",
+  "updatedAt": "2026-10-08T09:50:33.782049+00:00",
+  "sourceGroups": [
+    {
+      "id": "9e740210-31e2-4d91-a1ed-d2b0509a6ea1",
+      "name": "Project files",
+      "kind": "project-files",
+      "createdAt": "2026-10-08T09:50:33.807759+00:00"
+    }
+  ]
+}

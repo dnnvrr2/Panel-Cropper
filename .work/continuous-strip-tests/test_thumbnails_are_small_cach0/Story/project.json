@@ -1,0 +1,19 @@
+{
+  "id": "3da1c560-07fd-438c-bcd2-107a11fccb4f",
+  "projectName": "Story",
+  "outputFolder": "C:\\Users\\Admin\\Desktop\\Panel Cropper\\.work\\continuous-strip-tests\\test_thumbnails_are_small_cach0\\Story",
+  "defaultAspectRatio": "9:16",
+  "images": [],
+  "sourceGroups": [
+    {
+      "id": "13d0c55d-114d-487b-9391-947f1abc33b6",
+      "name": "Project files",
+      "kind": "project-files",
+      "createdAt": "2026-10-12T15:20:31.563012+00:00"
+    }
+  ],
+  "paragraphs": [],
+  "createdAt": "2026-10-12T15:20:31.480532+00:00",
+  "updatedAt": "2026-10-12T15:20:31.644168+00:00",
+  "freeCrops": []
+}
